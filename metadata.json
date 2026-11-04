@@ -1,0 +1,6 @@
+{
+  "name": "BD TTS Engine",
+  "description": "Fast Text-to-Audio generator with custom TTS engine selector, unlimited text support, WAV and MP3 export, audio history, and sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
